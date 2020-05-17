@@ -11,7 +11,7 @@ I'm looking forward to this semester's journey, as well as to go forth and apply
 
 Sources referenced: 
 
-https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f
-https://mixpanel.com/blog/2016/03/30/this-is-the-difference-between-statistics-and-data-science/
-https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article
-https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist/
+* <https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f>
+* <https://mixpanel.com/blog/2016/03/30/this-is-the-difference-between-statistics-and-data-science/>
+* <https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article>
+* <https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist/>
