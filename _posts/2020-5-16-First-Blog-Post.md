@@ -1,5 +1,5 @@
 ---
-layout: post
+format: post
 title: First Blog Post: Data Science Ideas
 ---
 
