@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 1 - Querying NHL API & Conducting Exploratory Analysis
+title: Project 1 - Ice Ice Baby - Exploring the NHL Franchise API Using jsonlite and ggplot2
 ---
 
 For the first project of the course, we were tasked with querying the [National Hockey League's "Franchise" API](https://gitlab.com/dword4/nhlapi/-/blob/master/records-api.md). For this purpose, I created a series of functions that could read in and parse JSON data using package `jsonlite`, for five different calls. Out of these calls, three (season, goalie, and skater records) can return specific rows of data; a user can insert a franchiseID and receive the row for that particular franchise. Ideally, with a little further knowledge, I would have liked to have delved more deeply into loops or vectorization, as to be able to repeatedly query the API for all different franchise IDs, and then combine the rows into a single large dataset. I believe this would allow for further important data exploration, as one could readily compare values across teams. 
