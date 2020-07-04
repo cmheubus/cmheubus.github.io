@@ -9,5 +9,5 @@ Second, I struggled with fully understanding the concepts behind variable select
 
 One of my major takeaways from this project is that there are no perfect solutions when it comes to finding a model that best suits your data. There are many approaches to fitting a model, and interpretation is largely subjective and must be kept in context of the industry one is working within. Additionally, automation should be a means by which we can easily create multiple reports at once, reducing or entirely eliminating the need for tedious adjustments to our code along the way. 
 
-To view my project, please visit the following link: 
+To view my project, please visit [this link](https://cmheubus.github.io/Project-2/)
 I'm deeply sorry for this mediocre result, but I look forward to putting together a strong final project in a few weeks' time. 
