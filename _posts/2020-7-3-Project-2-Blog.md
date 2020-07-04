@@ -11,4 +11,4 @@ One of my major takeaways from this project is that there are no perfect solutio
 
 To view my project, please visit [this link](https://cmheubus.github.io/Project-2/).
 
-I look forward to putting together a strong final project in a few weeks' time. 
+I look forward to putting together a strong final project over the coming weeks!
