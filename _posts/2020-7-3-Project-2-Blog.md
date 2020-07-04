@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 2 - Trial & Error
+title: Project 2 - Trial & Error While Examining Mashable Data
 ---
 
 This project is not my proudest moment - admittedly, I struggled with multiple elements. The most difficult components for me included the final automation of the report; I watched the Module 8 video multiple times, paid attention to activity on the forums, and did about five hours of research through [StackExchange](https://stackoverflow.com/questions/30422008/r-knitr-pdf-is-there-a-posssibility-to-automatically-save-pdf-reports-generate/30512430#30512430) and [other sources](https://bookdown.org/yihui/rmarkdown/params-knit.html#knit-with-custom-parameters), but I'm afraid that this component entirely evaded me. My understanding is that there needs to be a separate script - perhaps a loop - in the README.md file, which utilizes the `apply()` function to scan through each of the columns that starts with "weekday_is_", with each outputting to a separate github document that could then be linked to within the README. I am also under the impression that several changes to the YAML must be made, as to set the parameters; but putting these steps together has proven to be a major sticking point for me, and I'm afraid I had to generate the reports manually, filtering by columns - not the ideal solution I was hoping for. In retrospect, I should have requested help earlier on this issue. I felt foolish for not understanding the concept, but it was pure hubris on my part to think I would just "figure it out". 
