@@ -1,0 +1,10 @@
+---
+layout: post
+title: Concluding Thoughts - What a Journey! 
+---
+
+Throughout this course, I've had the wonderful opportunity to explore the world of data science through the lens of R programming. Reflecting back on what I wrote 10 weeks ago, I can see how my understanding and knowledge of the subject matter has grown through experiential learning and assignments that have allowed me to practice its principles. Though I myself will not become a data scientist, my appreciation for their work has greatly deepened, and I hope that I will have the opportunity to readily communicate and collaborate closely with data science colleagues on impactful projects in the workplace. 
+
+I would definitely enjoy the opportunity to use R going forward, should the opportunity present itself! I'll be attending UNC Kenan-Flagler this fall to pursue my MBA, and data increasingly guides businesses' decision-making. Though I believe the K-F core curriculum focuses primarily upon using JMP, ST 558 has peaked my interest in utilizing R, and I may see if other coursework permits me to use R to display and manipulate data. Though R may not be a program that I will engage with on a daily basis in a professional capacity, the knowledge gained within this course has expanded my thinking and challenged me in new ways, while enabling me to better grasp R's capacities and strengths.  
+
+Truly, this class has substantially influenced the way that I approach problem-solving, both in and out of the context of R. Increasingly, I find myself looking at problems by finding ways to optimize efficiency, create structures and frameworks, and methodically troubleshoot and explore all possibilities before making a decision. Though I was somewhat inclined to process information this way previously, the course has helped me hone this proclivity, and I plan to continue to apply this mentality in both my work and personal life. I'm grateful to have had this opportunity to explore this exciting programming language and transform my thinking! 
